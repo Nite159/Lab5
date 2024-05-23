@@ -1,0 +1,98 @@
+.body{
+    background-color: #070716;
+}
+.photo{
+    
+    width: 100%;
+    background-size: cover;
+    height: 700px;
+}
+.x{
+    opacity: 1;
+}
+.ours{
+    margin-top: 60px;
+   text-align: center;
+}
+.cardrest{
+
+    padding: 40px 40px 0 40px;
+    display: flex;
+    justify-content: space-between;
+}
+footer {
+    margin-top: 50px;
+    background: #1F2328;
+    min-height: 156px;
+    padding: 14px 23px 39px 23px;
+  }
+  footer .block {
+    margin: 0 auto;
+    background-color: #1fbad6;
+    width: 299px;
+    height: 4px;
+  }
+  footer .footer_social {
+    position: absolute;
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+  }
+  footer .footer_social_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 4px;
+    width: 32px;
+    height: 32px;
+    background-color: #070716;
+    border-radius: 100%;
+    text-decoration: none;
+  }
+  footer .footer_social_item i {
+    color: white;
+  }
+  footer .footer_links {
+    width: 390px;
+    margin: 0 auto;
+  }
+  footer .footer_links_main {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+  }
+  footer .footer_links .footer_links_main a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  footer .footer_links_sub a {
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #999;
+  }
+  footer .footer_links_sub {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  footer .language {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #1fbad6;
+  }
+  footer .final_icons {
+    width: 296px;
+    display: flex;
+    justify-content: space-between;
+    float: right;
+  }
